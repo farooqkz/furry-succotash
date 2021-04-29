@@ -7,3 +7,4 @@ if __name__ == "__main__":
             print("=" * j * i) # usage of an undefined variable "h"
 
     print("WELL DONE!")
+    Print("Can you write print function name correctly?")
